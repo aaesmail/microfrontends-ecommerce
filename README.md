@@ -1,3 +1,3 @@
 # Microfrontends Ecommerce
 
-This is a project to learn microfrontends and apply it using module federation feature of webpack.
+Several different microfrontend applications used together using Webpack module federation.
